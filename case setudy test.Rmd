@@ -1,0 +1,27 @@
+---
+title: "Cyclistic Case Study"
+author: "Gabrielle Charlton"
+date: "6/7/2022"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+![](https://miro.medium.com/max/1181/1*dKXQMU1QAjgh4gQeIuMCMQ.jpeg)
+
+# Introduction
+
+My name is Gabrielle Charlton, and this notebook represents a summary of my analysis of the last 12 months of [Cyclistic trip data](https://divvy-tripdata.s3.amazonaws.com/index.html). I have completed the steps of Ask, Prepare, Process, Analyze, and Share. These steps were  communicated through Google via the Coursera [Google Data Analytics Professional Certification](https://www.coursera.org/professional-certificates/google-data-analytics), and this project is my **capstone project**. 
+
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
